@@ -9,7 +9,7 @@
 <p>Sou desenvolvedor <b>Full Stack</b> e estudante de <b>Análise e desenvolvimento de sistemas</b>.</p>
 
 ---
-### :books: Skills and Tools:
+### 🚀 Habilidades e Ferramentas:
 
  
 <img align="center" title="javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -25,7 +25,7 @@
  <img align="center" title="styled-components" alt="styled-components" height="40" width="40" src="https://styled-components.com/favicon.png">
   
 
-### :telephone_receiver: Contact:
+### :telephone_receiver: Contato:
 <p>
 <a href="https://www.linkedin.com/in/samuelcs131/" alt="Linkedin" target="_blank">
  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/samuelcs131/"/>
@@ -41,9 +41,9 @@
  
   
 
-##
+ ###  📊 Estatísticas Github:
  
- <div align="center">
+ <div align="left">
   <a href="https://github.com/samuelcs131">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=samuelcs131&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=pt-br"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcs131&layout=compact&langs_count=7&theme=github_dark&locale=pt-br"/>
