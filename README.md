@@ -1,4 +1,7 @@
-<h1>Olá! Eu sou o Samuel</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=837CFF&center=false&lines=Olá%2C+me+chamo+Samuel!;Seja+bem-vindo+ao+meu+perfil!)](https://samuelclaudino.vercel.app)
+ 
+ 
+## 
  
  <div>
   <a href="https://github.com/samuelcs131">
@@ -7,7 +10,6 @@
 </div>
  
  
-  
 
  
 <div style="display: inline_block"><br>
