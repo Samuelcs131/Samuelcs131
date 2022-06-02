@@ -5,7 +5,7 @@
 <div> 
 <img align="right" width="300" src="https://github.com/Samuelcs131/Samuelcs131/blob/main/undraw_programming_re_kg9v.svg" />
 
-### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, me chamo Samuel!
+### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" >, me chamo Samuel!
 <p>Sou desenvolvedor <b>Full Stack</b> e estudante de <b>Análise e desenvolvimento de sistemas</b>.</p>
 
 ---
