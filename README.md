@@ -31,11 +31,11 @@
  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/samuelcs131/"/>
 </a>
 
-<a href="https://samuelclaudino.vercel.app" alt="Linkedin" target="_blank">
+<a href="https://samuelclaudino.vercel.app" alt="portfolio" target="_blank">
  <img src="https://img.shields.io/badge/-Portfolio-1C1C1C?style=for-the-badge&logo=Portfolio&logoColor=00FFFF&link=https://samuelclaudino.vercel.app"/>
 </a>
  
-<a href="mailto:samuelcs131@gmail.com" alt="Linkedin" target="_blank">
+<a href="mailto:samuelcs131@gmail.com" alt="email" target="_blank">
  <img src="https://img.shields.io/badge/-Email-1C1C1C?style=for-the-badge&logo=Email&logoColor=00FFFF&link=mailto:samuelcs131@gmail.com"/>
 </a>
  
